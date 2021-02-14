@@ -8,7 +8,7 @@ Artano, an NFT marketplace built upon Cardano, could be the place for people to 
 
 # What’s Artano’s current state?
 
-We have already formed a team of four people. We are at the initial funding phase and we're currently constructing the main architecture for our DApp. 
+We have already formed a team of six people. We are at the initial funding phase and we're currently constructing the main architecture for our DApp. 
 
 # What is Artano?
 
