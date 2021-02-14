@@ -29,7 +29,7 @@ We are committed to making the platform a welcoming environment for people of al
 
 **Marija** is our consultant for developing a financial model and a long-term business plan with several years of experience working in the finance and consulting sector, advising startups on growth and development strategies. She’s responsible for figuring out our financial plan.
 
-**Yari and AJ (Criptera)** are our NFT artists and enterpreneurs. You might know them for EduBlock, that aims to educate people about blockchain tech. They will help us approach other artists, as they are very well established in the space.
+**Yari and AJ (Criptera)** are our NFT artists and enterpreneurs. You might know them for EduBlock, that aims to educate people about blockchain tech or Criptera's amazing artwork. They will help us approach other artists, as they are very well established in the space.
 
 **Ronald and Sandip** are our partners from the Netherlands who are active within the Cardano ecosystem and have built multiple blockchain projects - specifically NFT projects. Their past experience and insight has already been of great use to us. Ronald is running the stake pool and is committed to the Cardano ecosystem since early 2017 and offered to assist Matt to get the stake pool for our project up and running. 
 
