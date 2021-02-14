@@ -80,7 +80,6 @@ We plan to allow premium users later, in case our costs aren’t covered.
 
 # What’s the timeline?
 
-
 As these usually go, we are speculating how our development timeline will look like. Here’s one possible timeline for our team.
 
 **Funding Stage 1, Q2-Q3 2021:**
@@ -116,7 +115,6 @@ As these usually go, we are speculating how our development timeline will look l
   Take 30% of the NFT market :)
 
 
-
 # To Conclude...
 
 There is already evidence of how NFTs have helped drive user adoption, just look at the craze that came about from the Ethereum based CryptoKitties game that rocketed to popularity in late 2017, this project raised huge awareness of the concept of non-fungible tokens. This would be an opportunity for Cardano to do the same but better as the infrastructure to handle such volumes of transactions has already been thought about within the development of Cardano.
@@ -128,21 +126,20 @@ There is already evidence of how NFTs have helped drive user adoption, just look
 
 Answer to @rich's question in our comments:
 
-**Question 1: Will SoMint be an open source solution?**
+**Question: Will SoMint be an open source solution?**
 
 @Matt and the devs have vouched to make everything as open-source as possible. We would like to make a solution that would be available for everyone. All interactions with the Cardano blockchain will be available as open source so others can leverage from our research and knowledge to build their own NFT DApps. People would be able to jump-start their NFT solutions using our code!
 Things that create value or help us monetize will have to remain closed source. Microservices that build a foundation for our security will also not be open to the public as that would be a security risk for us and our users. The idea here is that we don't want people to simply be able to copy-paste the code and become our competitor.
 
-**Question 2: How do you plan to achieve liquidity and scale:**
+**Question: How do you plan to achieve liquidity and scale:**
 
 From @Marija: "the newest developments of Cardano are sure to create a revolution in the digital art market, decrease fees and increase the compensation for the artist as well as make sure that artists get continuous compensation from the appreciation of their artwork. Platforms that currently operate mostly curate their arists and create barriers to entry to many talented individuals who would help scale up this space even further And our goal is to create a platform in which the community can thrive, where both parties get the best deals they can get and our ecosystem can continue developing."
 
 Answer to @oleum question in our comments:
 
-**Q2: How will data be stored?**
+**Question: How will data be stored?**
 
 Due to the nature of what we'll be creating we'll be using a combination of different storage systems. Our developers @ron have made us aware that we'll be making use of an IPFS to store large amounts of data. IPFS is decentralized. We will use local storage for the test environment before the MVP's initial release later this year, and migrate to the production environment with upgraded, decentralized storage.
-
 
 
 
