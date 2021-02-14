@@ -61,7 +61,7 @@ We have already found a development team (see the “Who is Artano?” section).
 - Marketing and Business development costs will be around 3000 USD
 - Financial Expert’s fees for the proposal, financial plans: 1,500 US
 
-**Setup fees: **
+**Setup fees:**
 
 - Domain costs for the first two years: $72.98
 - Costs of registering a company in Germany ~$1800
@@ -107,7 +107,7 @@ As these usually go, we are speculating how our development timeline will look l
   Find a cloud service provider where we can safely store (preferably not at organizations with a lot of power to switch us off)
   Start working on an algorithm that will prioritize art based on popularity, but also add randomizers that display less known artists’ work.
 
-**Stage 3 Q3 2022: **
+**Stage 3 Q3 2022:**
 
   Add a pro user subscription model (only if costs and salaries aren’t covered by fees)
   Work on sustainable business model where we are independent from investors, we cover costs though transaction fees and different levels of user accounts (ex. pro users)
