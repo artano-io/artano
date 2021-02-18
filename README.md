@@ -58,8 +58,8 @@ We’ve tried to make our budget as low as possible, and have found amazing deal
 
 We have already found a development team (see the “Who is Artano?” section). They are willing to work for 20,000 USD for the first 6 months of development.
 
-- Marketing and Business development costs will be around 3000 USD
-- Financial Expert’s fees for the proposal, financial plans: 1,500 US
+- Marketing and Branding development: ~$3000 (already in touch with a designer on a potential branding strategy)
+- Financial Expert’s fees for the proposal, financial planning: ~$1,500
 
 **Setup fees:**
 
