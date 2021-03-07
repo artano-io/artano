@@ -121,7 +121,7 @@ There is already evidence of how NFTs have helped drive user adoption, just look
 
 Answer to @rich's question in our comments:
 
-**Question: Will SoMint be an open source solution?**
+**Question: Will Artano be an open source solution?**
 
 @Matt and the devs have vouched to make everything as open-source as possible. We would like to make a solution that would be available for everyone. All interactions with the Cardano blockchain will be available as open source so others can leverage from our research and knowledge to build their own NFT DApps. People would be able to jump-start their NFT solutions using our code!
 Things that create value or help us monetize will have to remain closed source. Microservices that build a foundation for our security will also not be open to the public as that would be a security risk for us and our users. The idea here is that we don't want people to simply be able to copy-paste the code and become our competitor.
