@@ -48,13 +48,15 @@ We’re open to experienced developers who’d like to contribute to realizing o
 
 We are always interested in skilled people that like to contribute to our project, so feel free to reach out!
 
+If you hold some ADA, you can support this project by staking with [ARTA]: https://adapools.org/pool/5db269adccba1e9041469efc646bf200a560d9e1fd666366334d4fc3
+
 # Costs:
 
 We’ve tried to make our budget as low as possible, and have found amazing deals within this community!
 
 **Team costs:**
 
-We have already found a development team (see the “Who is Artano?” section). They are willing to work for 20,000 USD for the first 6 months of development.
+We have already found a development team (see the “Who is Artano?” section). They are willing to work for 20,000 USD for the first 6 months of development. If we get more funding on our journey, this would speed up the development process.
 
 - Marketing and Branding development: ~$3000 (already in touch with a designer on a potential branding strategy)
 - Financial Expert’s fees for the proposal, financial planning: ~$1,500
