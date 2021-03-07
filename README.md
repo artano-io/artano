@@ -29,8 +29,6 @@ We are committed to making the platform a welcoming environment for people of al
 
 **Marija** is our consultant for developing a financial model and a long-term business plan with several years of experience working in the finance and consulting sector, advising startups on growth and development strategies. She’s responsible for figuring out our financial plan.
 
-**Yari and AJ (Criptera)** are our NFT artists and enterpreneurs. You might know them for EduBlock, that aims to educate people about blockchain tech or Criptera's amazing artwork. They will help us approach other artists, as they are very well established in the space.
-
 **Ronald and Sandip** are our partners from the Netherlands who are active within the Cardano ecosystem and have built multiple blockchain projects - specifically NFT projects. Their past experience and insight has already been of great use to us. Ronald is running the stake pool and is committed to the Cardano ecosystem since early 2017 and offered to assist Matt to get the stake pool for our project up and running. 
 
 Ron and Sandip's team’s experience consist of:
@@ -84,37 +82,34 @@ As these usually go, we are speculating how our development timeline will look l
 
 **Funding Stage 1, Q2-Q3 2021:**
 
-  Gather data on user experience from artists and buyers in the NFT space.
-  Create storyboards for the different actors in the system.
-  Design the solution architecture. Security and scalability of the solution are playing a major role as well as the modularity of it.
-  Preference here is to build the solution on the basis of microservices to create isolation and separation of concerns, achieve modularity and scalability and reduce downtime of the platform in case of maintenance and software updates.
-  Setup of different environments and automatic pipelines (devops).
-   Start working on an MVP. The majority of the work has to be done on the marketplace for NFT’s
-  Smart contracts are just a small part but an important part of the total solution. We will use the Plutus Playground in the MVP phase to build them. 
-  Once NFT functionality is released by Cardano on Mainnet>>> 
+  - Gather data on user experience from artists and buyers in the NFT space.
+  - Create storyboards for the different actors in the system.
+  - Design the solution architecture. Security and scalability of the solution are playing a major role as well as the modularity of it.
+  - Preference here is to build the solution on the basis of microservices to create isolation and separation of concerns, achieve modularity and scalability and reduce downtime of the platform in case of maintenance and software updates.
+  - Setup of different environments and automatic pipelines (devops).
+  - Start working on an MVP. The majority of the work has to be done on the marketplace for NFT’s
+  - Smart contracts are just a small part but an important part of the total solution. We will use the Plutus Playground in the MVP phase to build them. 
+  - Once NFT functionality is released by Cardano on Mainnet>>> 
     - We will proof that the solution works and showcase the first transactions done by artists from various backgrounds. 
     - Next we will apply for funding, incubators, accelerators EU-based funds (usually 50-100k for 5-10% equity)
-  In case NFT functionality is not released on he Mainnet >>>
-    - Work on the Dapp in our test environment, prepare everything to be released as soon as NFTs are deployed to production. Go to Stage 2 if not ready by Q3.
-  All art is stored on our server at this stage.
+  - All art is stored on our server at this stage.
 
 **Funding Stage 2, Q3 2021 - Q2 2022:**
 
-  Apply for funding on Fund5/Fund6 and other fundings, accelerators
-  Apply for regulatory bodies in the EU to allow us to host financial transactions that conform to legislation. Payments (in fiat or cryptocurrencies) and measures like KYC and Anti-money laundering should be an integral part of the solution to be compliant with legislation. Here we will be dependent on third party service providers. We will need to find the right partners to collaborate with to keep the costs of the platform acceptable. Costs for these services can be substantial and our business model has to cater for this. Estimated costs for these services are ≅ 200k and can become a magnitude of this depending on the volumes of NFTs being traded
-  Support of hardware wallets to store NFTs safely
-  Find a cloud service provider where we can safely store (preferably not at organizations with a lot of power to switch us off)
-  Start working on an algorithm that will prioritize art based on popularity, but also add randomizers that display less known artists’ work.
+  - Apply for funding on Fund5/Fund6 and other fundings, accelerators
+  - Apply for regulatory bodies in the EU to allow us to host financial transactions that conform to legislation. Payments (in fiat or cryptocurrencies) and measures like KYC and Anti-money laundering should be an integral part of the solution to be compliant with legislation. Here we will be dependent on third party service providers. We will need to find the right partners to collaborate with to keep the costs of the platform acceptable. Costs for these services can be substantial and our business model has to cater for this. Estimated costs for these services are ≅ 200k and can become a magnitude of this depending on the volumes of NFTs being traded
+  - Support of hardware wallets to store NFTs safely
+  - Find a cloud service provider where we can safely store (preferably not at organizations with a lot of power to switch us off)
+  - Start working on an algorithm that will prioritize art based on popularity, but also add randomizers that display less known artists’ work.
 
 **Stage 3 Q3 2022:**
 
-  Add a pro user subscription model (only if costs and salaries aren’t covered by fees)
-  Work on sustainable business model where we are independent from investors, we cover costs though transaction fees and different levels of user accounts (ex. pro users)
-  Refine the front end to potentially host other types of NFT’s
-  Determine which NFT art is seen (example, the one with most likes/views/recommendations).
-  Take 30% of the NFT market :)
-
-
+  - Add a pro user subscription model (only if costs and salaries aren’t covered by fees)
+  - Work on sustainable business model where we are independent from investors, we cover costs though transaction fees and different levels of user accounts (ex. pro users)
+  - Refine the front end to potentially host other types of NFT’s
+  - Determine which NFT art is seen (example, the one with most likes/views/recommendations).
+  - Take 30% of the NFT market :)
+  
 # To Conclude...
 
 There is already evidence of how NFTs have helped drive user adoption, just look at the craze that came about from the Ethereum based CryptoKitties game that rocketed to popularity in late 2017, this project raised huge awareness of the concept of non-fungible tokens. This would be an opportunity for Cardano to do the same but better as the infrastructure to handle such volumes of transactions has already been thought about within the development of Cardano.
